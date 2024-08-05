@@ -2,7 +2,7 @@
 <html lang="Royalhacker">
 <head>
     <meta charset="Royal ethnical hacking ">
-    <title>Royal hacker</title>
+    Royal hacker
 </head>
 <body>
     <img src="roy.jpg" height ="200" width="600" alt="picture of a hacker" background ="200">
