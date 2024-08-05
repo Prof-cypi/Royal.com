@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="Royalhacker">
 <head>
     <meta charset="Royal ethnical hacking ">
