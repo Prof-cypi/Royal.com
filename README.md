@@ -31,9 +31,9 @@ White hat hackers working on a team can be referred to as sneakers, hacker clubs
 
 Gray hat hackers may not have the criminal or malicious intent of a black hat hacker, but they also don’t have the prior knowledge or consent of those whose systems they hack into. Nevertheless, when gray hat hackers uncover weaknesses such as zero-day vulnerabilities, they report them rather than fully exploiting them. But gray hat hackers may demand payment in exchange for providing full details of what they uncovered.
 
-<h2>What’s the difference between white, black, and gray hat hackers?</h3>
+<h3>What’s the difference between white, black, and gray hat hackers?</h3>
 
-The main difference between white, black, and gray hat hackers is the motivation or intent that each type of hacker has when they break into computer systems. White hat hackers probe cybersecurity weaknesses to help organizations develop stronger security; black hat hackers are motivated by malicious intent; and Gray hat hackers operate in the nebulous area in between — they’re not malicious, but they’re not always ethical either.
+<i>The main difference between white, black, and gray hat hackers</i> is the motivation or intent that each type of hacker has when they break into computer systems. White hat hackers probe cybersecurity weaknesses to help organizations develop stronger security; black hat hackers are motivated by malicious intent; and Gray hat hackers operate in the nebulous area in between — they’re not malicious, but they’re not always ethical either.
 
 <i>White, black, and gray hat hackers have different motivations when breaking into systems.</i>
 
