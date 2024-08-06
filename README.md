@@ -38,5 +38,6 @@ Gray hat hackers may not have the criminal or malicious intent of a black hat ha
 <i>White, black, and gray hat hackers have different motivations when breaking into systems.</i>
 
 <a href="https://youtu.be/MwpMEbgC7DA?si=xTBVgQyO67BngogR">enter here plzz</a>
+<p><a href="https://chat.whatsapp.com/H6N0BXxetZt9d7UTwu8VMb">😎😎</a></p>
 </body>
 </html>
